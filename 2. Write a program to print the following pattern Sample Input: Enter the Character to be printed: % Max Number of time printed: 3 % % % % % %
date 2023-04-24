@@ -1,0 +1,20 @@
+#include<stdio.h>
+void main() {
+
+int i,j,n;
+char;
+printf("enter character to be printed: ");
+scanf("%d",&n);
+printf("\nMax number of times printed: ");
+scanf("%d",&n);
+for(i=1;i<=n;i++) {
+	
+for(j=1;j<=i;j++) {
+	
+printf("%d ",n);
+
+printf("\n");
+   }
+ }
+   return 0;
+}
